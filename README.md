@@ -18,3 +18,13 @@ programming in style.
 - "Don't" means there's never a good reason.
 - "Prefer" indicates a better option and its alternative to watch out for.
 - "Use" is a positive instruction.
+
+## Guides by category
+
+### Collaboration
+
+- [Code Review](/code-review/)
+
+### Tools
+
+- [Git](/git/)
